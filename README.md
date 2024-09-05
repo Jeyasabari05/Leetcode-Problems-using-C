@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [2155-find-missing-observations](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0027-remove-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 ## Binary Search
 |  |
 | ------- |
