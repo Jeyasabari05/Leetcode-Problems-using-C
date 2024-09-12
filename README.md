@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2155-find-missing-observations) |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Depth-First Search
 |  |
@@ -111,9 +114,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
