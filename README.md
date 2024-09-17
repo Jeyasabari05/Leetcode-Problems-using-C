@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0040-combination-sum-ii](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
