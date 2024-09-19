@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 ## Array
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
