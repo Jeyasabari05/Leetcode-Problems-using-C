@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,4 +167,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
