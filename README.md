@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
