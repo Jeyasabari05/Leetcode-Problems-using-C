@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
