@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0214-shortest-palindrome](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0268-missing-number) |
