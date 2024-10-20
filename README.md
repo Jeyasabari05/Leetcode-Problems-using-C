@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Jeyasabari05/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Depth-First Search
 |  |
