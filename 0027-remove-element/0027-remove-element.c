@@ -1,9 +1,12 @@
-int removeElement(int* a, int n, int val) {
-    int c=0,t;
-    for(int i=0;i<n;i++){
-        if(a[i]==val){
-            c++;
+int removeElement(int* nums, int numsSize, int val) {
+    if(numsSize==0){
+        return 0;
+    }
+    int j=0;
+    for(int i=0;i<numsSize;i++){
+        if(nums[i]!=val){
+            nums[j++]=nums[i];
         }
-        else{a[i-c]=a[i];}}
-        return (n-c);
+    }
+    return j;
 }
