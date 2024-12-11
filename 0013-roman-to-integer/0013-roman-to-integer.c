@@ -1,20 +1,42 @@
-int romanToInt(char * s)
+#include <stdlib.h>
+#include <string.h>
+
+int findSymbol(char c, char *symbolArr)
 {
-    int t['X' + 1] = {
-        ['I'] = 1,
-        ['V'] = 5,
-        ['X'] = 10,
-        ['L'] = 50,
-        ['C'] = 100,
-        ['D'] = 500,
-        ['M'] = 1000,
-    };
-    int res = 0;
-    for (int i = 0; s[i]; i++) {
-        if (t[s[i]] < t[s[i+1]])
-            res -= t[s[i]];
+    int j = 0;
+    while(c != symbolArr[j])
+        j++;
+    return (j);
+}
+
+int romanToInt(char* s) 
+{
+    int symbolIndex;
+    int nextSymbolIndex;
+    int i = 0;
+    int finalNum = 0;
+    int strLen = strlen(s);
+
+    char symbolArr[] = {'I', 'V', 'X', 'L', 'C', 'D', 'M'};
+    int valueArr[] = {1, 5, 10, 50, 100, 500, 1000};
+
+    while (s[i] && i < (strLen - 1))
+    {
+        symbolIndex = findSymbol(s[i], symbolArr);
+        nextSymbolIndex = findSymbol(s[i + 1], symbolArr);
+        if (symbolIndex < nextSymbolIndex)
+        {
+            finalNum += (valueArr[nextSymbolIndex] - valueArr[symbolIndex]);
+            i += 1;
+        }
         else
-            res += t[s[i]];
+            finalNum += valueArr[symbolIndex];
+        i++;
     }
-    return res;
+    if (s[i] && i < strLen)
+    {
+        symbolIndex = findSymbol(s[i], symbolArr);
+        finalNum += valueArr[symbolIndex];
+    }
+    return (finalNum);
 }
