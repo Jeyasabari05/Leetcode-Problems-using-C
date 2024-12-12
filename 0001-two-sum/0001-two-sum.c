@@ -1,19 +1,23 @@
-int* twoSum(int* nums, int numsSize, int target, int* returnSize){
-    
-*returnSize=2;
-int *array = malloc(2*sizeof(int) ); 
-
-for (int i=0; i<numsSize;i++)
+int* twoSum(int *nums, int numsSize, int target, int *returnSize) 
 {
-    for( int j=1+i;j<numsSize;j++)
+    int *temp = malloc(2 *sizeof(int));
+    temp[0] = 0;
+    temp[1] = 1;
+    for(int i = 0;i < numsSize ;i++)
     {
-        if(nums[i] + nums[j] == target)
+        for(int j = i + 1; j < numsSize; j++)
         {
-        array[0]=i;
-        array[1]=j;
-        return array;
+            if(nums[i] + nums[j] == target)
+            {
+                *returnSize = 2;
+                temp[0] = i;
+                temp[1] = j;
+                return temp;
+
+            }
         }
-    }      
-}
-return -1;
+    }
+    *returnSize = 0;
+    return 0;
+    free(temp);
 }
